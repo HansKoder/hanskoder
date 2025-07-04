@@ -1,16 +1,16 @@
 # 🌟 Welcome to My GitHub Profile  
 
 Hi, I’m Hans Arias! 👋  
-- 🚀 Backend Software Engineer passionate about microservices, distributed systems, blockchain, and renewable energy
-- 💻 Experienced in Java, Cache database, TDD, and building scalable microservices  
-- 🌱 Currently learning distributed systems architecture, and cloud computing focused on AWS
+- 🚀 Backend Software Engineer passionate about microservices, distributed systems
+- 💻 Backend with Solid knowledge in Java, Spring boot, Unit testing (TDD)
+- 🌱 Currently deepening Quarkus, Cloud Native, Distributed Systems, and Microservices.
 
 
 ## 🛠️ Technologies & Skills  
-- **Languages:** Java | TypeScript  
-- **Frameworks:** Spring Boot | Express.js  
-- **Tools:** Kafka | Docker | AWS  
-- **Database:** MySQL | Redis | Memcached | MongoDB 
+- **Languages:** Java | Node.js (Typescript) | Python 
+- **Frameworks:** Spring Boot | Quarkus 
+- **Tools:** Docker, Kubernetes
+- **Database:** Oracle | Postgres | Redis | Memcached | MongoDB 
 
 <!--
 **HansKoder/hanskoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
